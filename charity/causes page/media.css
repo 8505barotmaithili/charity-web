@@ -1,0 +1,680 @@
+@media(width:768px){
+    
+.menu ul {
+    display: none;
+    list-style: none;
+}
+
+.banner {
+    height: 200px;
+    width: 100%;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url('images/causes-bg (1).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+   
+ 
+
+}
+.featured{
+    margin-bottom:90% ;
+}
+
+.featured-container{
+    height: 700px;
+    width: 80%;
+    margin: auto;
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.left-cause{
+    height: 614px;
+    width: 100%;
+   
+  
+}
+
+.right-cause{
+    height: 614px;
+    width: 100%;
+
+
+}
+
+.causes{
+    height: 1100px;
+    width: 100%;
+    margin-top: 20%;
+   
+   
+}
+
+.causes-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.causes-box1{
+    height: 500px;
+    width: 47%;
+    background-color: white;
+    border: 1px solid rgb(205, 195, 195);
+}
+
+.cause-img h4{
+    
+    font-size: 20px;
+    margin-top: 4%;
+    padding-top: 13px;
+}
+
+
+
+.range2{
+    margin-top: 5%;
+}
+
+#ran2{
+    width: 240px;
+    height: 10px;
+    accent-color: orangered;
+   outline: none;
+   background-color: #d3d3d3; 
+   position: relative; 
+}
+
+
+.btn-percentage2{
+    border: 1px none;
+    width: 17%;
+    height: 40px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding: 10px 9px;
+    color: white;
+    position: relative;
+    top:-64px;
+    left: 67%;
+    
+
+}
+
+.range2 h5{
+    color:rgb(121, 109, 109);
+    font-size: 11px;
+    margin-top: 8%;
+  
+
+    
+}
+
+
+
+
+.causes-box2{
+    height: 500px;
+    width: 47%;
+    background-color:white;
+    border: 1px solid rgb(205, 195, 195);
+}
+
+
+.btn-percentage2-dif{
+    border: 1px none;
+    width: 17%;
+    height: 40px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding: 10px 9px;
+    color: white;
+    position: relative;
+    top:-60px;
+    left: 60%;
+    
+
+}
+.causes-box3{
+    height: 500px;
+    width: 47%;
+    background-color: white;
+    border: 1px solid rgb(205, 195, 195);
+    margin-top: 5%;
+}
+
+.information{
+    height: 1050px;
+    width: 100%;
+    
+   
+    margin-bottom: 10%;
+    
+}
+
+.information-container{
+
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+   
+   flex-wrap: wrap-reverse;
+   
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info-image{
+    height: 500px;
+    width: 100%;
+    padding-top: 150%;
+    position: relative;
+    
+}
+
+.info-detail{
+    height: 450px;
+    width: 100%;
+  position: relative;
+  top:80%;
+ 
+  
+}
+.info-detail h1{
+    font-size: 30px;
+    color: white;
+}
+
+
+.btn-percentage3{
+    border: 1px none;
+    width: 8%;
+    height: 45px;
+    background-color: orangered;
+    border-radius: 100px;
+    padding: 0px 10px;
+    color: white;
+    position: absolute;
+  left: 69%;
+  top:45.5%;
+ 
+
+}
+
+.range3 h6{
+    color:rgb(121, 109, 109);
+    font-size: 15px;
+ 
+}
+
+.footer {
+    height: 900px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('/images/foot-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 150px;
+    
+
+
+}
+.footer-container {
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+   
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.footer-box1 {
+    height: 300px;
+    width: 50%;
+    margin-top: 20%;
+  
+
+
+}
+
+.links {
+    height: 305px;
+    width: 50%;
+    margin-top: 20%;
+
+
+}
+.news {
+    height: 305px;
+    width: 50%;
+
+}
+.contact {
+    height: 305px;
+    width: 50%;
+
+}
+.contact button {
+    height: 38.8px;
+    width: 10.5%;
+    background-color: orangered;
+    position: absolute;
+    left: 75.5%;
+    top:869.5%;
+    border: none;
+    
+}
+.copy {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin-top: 43%;
+}
+
+
+}
+@media(width:480px){
+    .menu ul {
+        display: none;
+        list-style: none;
+    
+    
+    }
+    
+    
+.banner {
+    height: 270px;
+    width: 100%;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url('images/causes-bg (1).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+   
+}
+
+.banner-container {
+
+    height: 60%;
+    width: 40%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 31%;
+}
+
+
+.banner-container h1 {
+    font-size: 37px;
+    margin-top: 2%;
+
+}
+.featured{
+    margin-bottom: 250%;
+}
+.featured-container{
+    height: 700px;
+    width: 80%;
+    margin: auto;
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.left-cause{
+    height: 614px;
+    width: 100%; 
+}
+
+
+
+.left-container{
+    height: 800px;
+    width: 100%;
+    background-color:rgb(235, 235, 240);    
+    margin-top: 7%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    
+   
+    
+}
+.left-img{
+    
+    height: 400px;
+    width: 100%;
+    margin-top: 5%;
+    
+   
+}
+.left-img img{
+    height: 400px;
+    width: 100%;
+}
+
+
+
+.left-detail{
+
+    height: 250px;
+    width: 100%;
+    
+    margin-top: 5%;
+   
+    
+    
+}
+
+
+.left-detail p{
+    margin-top: 5%;
+    color: rgb(121, 109, 109);
+    
+    font-size: 20px;
+    
+}
+#button{
+    background: var(--mahi);
+    padding: 19px;
+    width: 40%;
+    border-radius: 25px;
+   border: none;
+   margin-top: 10%;
+  
+    
+}
+
+.range{
+    margin-top: 10%;
+}
+
+#ran{
+    width: 375px;
+    height: 10px;
+    accent-color: orangered;
+   outline: none;
+   background-color: #d3d3d3; 
+   position: relative; 
+  
+}
+
+
+
+.btn-percentage{
+    border: 1px none;
+    width: 11%;
+    height: 40px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding: 10px 8px;
+    color: white;
+    position: relative;
+    top:-54px;
+    left: 70%;
+    
+
+}
+
+.range h5{
+    color:rgb(121, 109, 109);
+    font-size: 10px;
+    margin-top: 3%;
+   
+}
+
+
+
+.right-cause{
+    height: 614px;
+    width: 100%;
+    margin-top: 70%;
+  
+
+}
+
+
+.right-container{
+    height: 800px;
+    width: 100%;
+    background-color:rgb(235, 235, 240);
+    margin-top: 19%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.right-img{
+    
+    height: 350px;
+    width: 100%;
+   
+    margin-top: 5%;
+   
+}
+.right-img img{
+    height: 350px;
+    width: 100%;
+}
+
+.right-detail{
+
+    height: 300px;
+    width: 100%;
+    margin-top: 5%;
+   
+   
+    
+    
+}
+.causes{
+    height: 500px;
+    width: 100%;  
+    margin-top: 240%;
+}
+
+.causes-box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    flex-wrap: wrap;
+}
+.causes-box1{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid rgb(205, 195, 195);
+}
+
+
+.causes-box2{
+    height: 500px;
+    width: 100%;
+    background-color:white;
+    border: 1px solid rgb(205, 195, 195);
+    margin-top: 5%;
+}
+
+.causes-box3{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid rgb(205, 195, 195);
+    margin-top: 5%;
+}
+.information{
+    margin-top: 250%;
+    height: 1000px;
+}
+
+.information-container{
+
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap-reverse;
+   
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info-detail{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    top:70%;
+    text-align: justify;
+
+  
+}
+
+.info-detail h1{
+    font-size: 30px;
+    color: white;
+}
+
+.info-image{
+    height: 500px;
+    width: 100%;
+position: relative;
+top:70%;
+    
+}
+
+.info-image img{
+    height: 450px;
+    width: 100%;
+}
+
+
+#ran3{
+    width: 98%;
+    height: 10px;
+    accent-color: orangered;
+   outline: none;
+   background-color: #d3d3d3; 
+   position: relative;
+   
+}
+
+.btn-percentage3{
+    border: 1px none;
+    width: 12%;
+    height: 45px;
+    background-color: orangered;
+    border-radius: 100px;
+    padding: 0px 10px;
+    color: white;
+    position: absolute;
+  left: 65%;
+  top:48%
+ 
+
+}
+
+.range3 h6{
+    color:rgb(121, 109, 109);
+    font-size: 10px;
+ 
+ 
+ 
+}
+
+.buttons{
+
+    background: var(--mahi);
+    padding: 19px;
+    width: 40%;
+    border-radius: 25px;
+   border: none;
+   margin-top: 5%;
+   
+  
+    
+}
+.causes{
+    margin-top: 3%;
+}
+
+.footer {
+    height: 1300px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('/images/foot-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top:250%; 
+
+
+}
+.footer-container{
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+}
+
+.footer-box1 {
+    height: 300px;
+    width: 100%;
+padding-top:20% ;
+  text-align: justify;
+
+
+
+}
+
+.links {
+    height: 305px;
+    width: 100%;
+ 
+
+
+}
+.news {
+    height: 305px;
+    width: 100%;
+
+}
+.contact {
+    height: 305px;
+    width: 100%;
+
+}
+
+.contact button {
+    height: 41.5px;
+    width: 15%;
+    background-color: orangered;
+    position: absolute;
+    left: 67%;
+    top:1148.6%;
+    border: none;
+    margin-top: 2%;
+}
+.copy {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin-top: 150%;
+}
+
+}
